@@ -1,3 +1,3 @@
 output "address" {
-  value = "${aws_access_key}"
+  value = "${var.aws_access_key}"
 }
