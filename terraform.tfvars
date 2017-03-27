@@ -1,6 +1,6 @@
 region = "us-east-1"
-aws_access_key = "AKIAIZYHWZXMZGVJ6YXA"
-aws_secret_key = "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"
+aws_access_key = ""
+aws_secret_key = ""
 vpc_cidr          = "10.0.0.0/16"
 private_subnet1    = "10.0.1.0/24"
 private_subnet2    = "10.0.2.0/24"
