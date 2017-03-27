@@ -1,3 +1,3 @@
 output "address" {
-  value = "${var.aws_access_key}"
+  value = "${var.vpc_cidr}"
 }
